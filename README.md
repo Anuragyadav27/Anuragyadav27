@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Anurag Yadav</h1>
-<h3 align="center" >A passionate MERN STACK developer from India</h3>
+<h3 align="center" >A Software developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 
 - 🌱 I’m currently learning **Next.js**
 
-- 💬 Ask me about **MERN STACK , Data Structure**
+- 💬 Ask me about **MERN STACK, C++, Embedded software , Data Structure**
 
 - 📫 How to reach me **anuragyadav180802@gmail.com**
 
